@@ -9,3 +9,5 @@ Screenshots:
 <img width="408" alt="register2" src="https://github.com/whettam/GoodDadAdmin/assets/77294339/7d516f2c-1f60-4bd9-b728-e182d459a919">
 
 ![database1](https://github.com/whettam/GoodDadAdmin/assets/77294339/0c0746e4-ed6b-4e71-931c-14a2eb880ce3)
+
+![database2](https://github.com/whettam/GoodDadAdmin/assets/77294339/295b4b58-c7a4-4efe-ae5d-1d311cf3edd6)
