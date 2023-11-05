@@ -11,14 +11,14 @@
     new Chart(ctx, {
         type: 'pie',
         data: {
-            labels: ['Red', 'Blue'],
+            labels: ['Finished', 'In progress'],
             datasets: [
                 {
                     label: 'Dataset 1',
                     data: [70, 30],
                     borderColor: '#36A2EB',
                     backgroundColor: [
-                        'rgb(18,238,179)',
+                        'rgb(250,165,50)',
                         'rgb(54, 162, 235)',
                     ],
                 },
