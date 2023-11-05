@@ -288,3 +288,7 @@ float: right;
     max-width: 20%;
     height: auto; 
 }
+
+.bg-form {
+    background-color: whitesmoke;
+}

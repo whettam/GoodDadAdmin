@@ -14,7 +14,7 @@
             <div class="form-header bg-card-header">
                 <h2>Register</h2>
             </div>
-            <div class="form-body">
+            <div class="form-body bg-form">
                 <fieldset>
                     <label for="fname">First Name</label>
                     <input type="text" id="fname" name="fname" required>
