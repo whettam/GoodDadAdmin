@@ -21,7 +21,7 @@
                 <div class="card-body">
                     <h5 class="card-title card-text-font text-underline">Send quiz</h5>
                     <p class="card-text"></p>
-                    <div class="row">
+
                         <div class="col-4"> 
                             <div class="dropdown">
                                 <a class="btn btn-secondary dropdown-toggle bg-card-btn" href="#" role="button" id="dropdownMenuLink"
@@ -51,4 +51,3 @@
                 </div>
             </div>
         </div>
-    </div>

@@ -58,10 +58,12 @@
                 <?php include 'modules/Quizadd.php'; ?>
             </div>
 
+            </div>
+        <div class="row">
             <div class="col">
                 <?php include 'modules/userlookup.php'; ?>
             </div>
-            <div class="">
+            <div class="col">
                 <?php include 'modules/remindedit.php'; ?>
             </div>
         </div>

@@ -184,3 +184,8 @@ footer {
 .bg-form {
     background-color: whitesmoke;
 }
+.card{
+    min-height: 260px;
+    margin-bottom: 20px;
+    min-width: 450px;
+}

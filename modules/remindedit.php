@@ -15,7 +15,7 @@
     </script>
 
 <div class="row">
-        <div class="col-lg-4 p-5">
+
             <div class="card">
                 <h5 class="card-header bg-card-header card-header-font p-3">Remind</h5>
                 <div class="card-body">
@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-4">
                             <div class="btn-group">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
+                                <button class="bg-card-btn btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
                                     Send reminder
                                 </button>
                                 <ul class="dropdown-menu">
@@ -66,5 +66,5 @@
                     </div>
                 </div>
             </div>
-        </div>
+
     </div>
