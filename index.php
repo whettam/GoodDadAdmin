@@ -36,7 +36,7 @@
     </nav>
     <div class="container">
         <div class="row">
-            <div class="col">
+            <div id="pie">
                 <?php include 'test htmls/pie.php'; ?>
             </div>
             <div class="col small-map">

@@ -1,5 +1,5 @@
 <link rel="stylesheets" type="text/css" href="/styles2.css">
-<div class="pie">
+<div id="pie">
 <canvas id="myChart"></canvas>
 </div>
 
