@@ -14,10 +14,10 @@
         })
     </script>
 
-<div class="row">
+
 
             <div class="card">
-                <h5 class="card-header bg-card-header card-header-font p-3">Remind</h5>
+                <h5 class="card-header bg-card-header card-header-font ">Remind</h5>
                 <div class="card-body">
                     <h5 class="card-title card-text-font text-underline">Send quiz</h5>
                     <p class="card-text"></p>
@@ -67,4 +67,3 @@
                 </div>
             </div>
 
-    </div>

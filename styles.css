@@ -187,5 +187,9 @@ footer {
 .card{
     min-height: 260px;
     margin-bottom: 20px;
-    min-width: 450px;
+
+}
+
+.card-header{
+    min-width: 100px;
 }
