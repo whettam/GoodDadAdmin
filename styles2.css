@@ -35,3 +35,12 @@ div{
 .myChart{
     width: 40%;
 }
+
+.smaller-image {
+    max-width: 20%; /* Adjust the percentage as needed to control the image size */
+    height: auto; /* Maintain the aspect ratio while resizing */
+}
+
+.small-map {
+    max-width: 20%;
+}

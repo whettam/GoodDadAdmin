@@ -3,15 +3,12 @@
         <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="tests.css">
 
-    <div class="row">
-        <div class="col-lg-4 p-5">
+
             <div class="card">
                 <h5 class="card-header bg-card-header card-header-font p-3">Users By Region</h5>
                 <div class="card-body">
                     <div class="">
-                        <img class="img-fluid" src="../images/UsersRegionMap.jpg" alt="Map">
+                        <img class="img-fluid" src="images/UsersRegionMap.jpg" alt="Map">
                     </div>
                 </div>
             </div>
-        </div>
-    </div>

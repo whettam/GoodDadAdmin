@@ -281,3 +281,10 @@ padding: 1em;
 display: inline-block;
 float: right;
 }
+
+/* image sizing for map */
+
+.smaller-image {
+    max-width: 20%;
+    height: auto; 
+}
