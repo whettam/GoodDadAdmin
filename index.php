@@ -38,6 +38,9 @@
     <div class="container">
         <div class="row">
             <div class="col">
+                <?php include 'test htmls/pie.php'; ?>
+            </div>
+            <div class="col">
                 <?php include 'modules/quickadd.php'; ?>
             </div>
 
