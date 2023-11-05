@@ -11,7 +11,7 @@
             <h1 type="text/css" class="card-title card-text-font">Add a dad</h1>
 
             <div class="selectpatting">
-                <p><a href="/new_f/website/modules/registerform.php" class="btn btn-primary bg-card-btn"> Submit</a></p>
+                <p><a href="modules/registerform.php" class="btn btn-primary bg-card-btn"> Submit</a></p>
             </div>
         </div>
     </div>
